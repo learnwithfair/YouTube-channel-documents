@@ -1,17 +1,5 @@
 Thanks for visiting my GitHub account!
 
-## Learn With Fair (Cover Photo)
-![cover](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/cover%20photo/Learn%20With%20Fair%20Youtube%20Channel%20Art.png)
-
-## Learn With Fair (Logo)
-![logo](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/logo/Learn%20With%20Fair%20Youtube%20Channel%20Logo.png)
-
-
-## Live Visit (Learn With Fair)
-
-[![Learn With Fair](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/images/youtube.avif)](https://www.youtube.com/@learnwithfair)
-
-
 ## Welcome Message
 ```diff
 "আমার ফেজবুক পেজে  আপনাকে স্বাগতম, আপনার সন্তুষ্টি আমার প্রথম অগ্রাধিকার"
@@ -28,6 +16,24 @@ Thanks for visiting my GitHub account!
 অনুরোধক্রমে, মোঃ রাহাতুল রাব্বী। 
 ধন্যবাদ। 
 ```
+
+## Learn With Fair (Logo)
+| | |
+|:---:|:---:|
+| Logo-1| Logo-2 |
+|![logo](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/logo/Learn%20With%20Fair%20Youtube%20Channel%20Logo.png)|![logo](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/logo/Learn%20With%20Fair%20Youtube%20Channel%20Logo%20(2).png)|
+
+## Learn With Fair
+
+| | |
+|:---:|:---:|
+|Cover Photo |Live Visit↧  |
+|![cover](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/cover%20photo/Learn%20With%20Fair%20Youtube%20Channel%20Art.png)|[![Learn With Fair](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/images/youtube.avif)](https://www.youtube.com/@learnwithfair)|
+
+
+
+
+
 ## Channel Descriptions
 ```diff
 Learn With Fair is an Online Learning Platform for the Bangla Tutorial YouTube channel. Here, I'm making video tutorials of Computer Science related subjects
