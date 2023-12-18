@@ -27,8 +27,8 @@ Thanks for visiting my GitHub account!
 
 | | |
 |:---:|:---:|
-|Cover Photo |Live Visit↧  |
-|![cover](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/cover%20photo/Learn%20With%20Fair%20Youtube%20Channel%20Art.png)|[![Learn With Fair](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/images/youtube.avif)](https://www.youtube.com/@learnwithfair)|
+|Cover Photo |Live Visit  |
+|![cover](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/cover%20photo/Learn%20With%20Fair%20Youtube%20Channel%20Art.png)|$\color{red}{Click \space Here \space ↧}$ <br><br>[![Learn With Fair](https://github.com/learnwithfair/YouTube-channel-documents/blob/main/images/youtube.avif)](https://www.youtube.com/@learnwithfair)|
 
 
 
